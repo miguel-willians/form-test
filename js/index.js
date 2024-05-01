@@ -18,7 +18,7 @@ function send(){
 
       <p class="main-p2">Thanks for subscribing!</p>
     
-     <p>A confirmation email has been sent to <strong>${etxt}</strong> . 
+     <p>A confirmation email has been sent to <strong>${etxt.value}</strong> . 
         Please open it and click the button inside to confirm your subscription.</p>
   
     
